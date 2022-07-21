@@ -1,2 +1,2 @@
-# custom-directives
-for report about Vue dynamic and async components
+# attributes-and-events
+for report about Vue attributes and events
